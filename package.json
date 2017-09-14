@@ -1,0 +1,30 @@
+{
+  "name": "html-inject-vdom",
+  "version": "0.0.1",
+  "description": "Transform stream for injecting virtual DOM tags into html.",
+  "main": "index.js",
+  "bin": {
+    "htmlinjectvdom": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syarul/html-inject-vdom.git"
+  },
+  "keywords": [
+    "inject",
+    "virtual dom",
+    "stream"
+  ],
+  "author": "Shahrul Nizam Selamat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syarul/html-inject-vdom/issues"
+  },
+  "homepage": "https://github.com/syarul/html-inject-vdom#readme",
+  "dependencies": {
+    "trumpet": "^1.7.2"
+  }
+}
